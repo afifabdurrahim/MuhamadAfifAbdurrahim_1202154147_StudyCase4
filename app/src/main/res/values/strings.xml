@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MuhamadAfifAbdurrahim_1202154147_Modul4</string>
+    <string-array name="namaMhs">
+        <item>Icanfood</item>
+        <item>Bogocreng</item>
+        <item>Yebe</item>
+        <item>Upap</item>
+        <item>Ancol</item>
+        <item>DIjeh</item>
+        <item>Afif</item>
+        <item>Adudu</item>
+        <item>Unyu</item>
+        <item>Babeh</item>
+        <item>Kepin</item>
+
+    </string-array>
+</resources>
